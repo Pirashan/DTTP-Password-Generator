@@ -10,4 +10,5 @@ The project has the following features:
   * After use data is collected, a random password will be generated using JavaScript
 * A text area
   * This area will display the password once it is generated
-  
+
+The prompts will be asked through the browser, Yes correlates to Okay and No correlates to Cancel
